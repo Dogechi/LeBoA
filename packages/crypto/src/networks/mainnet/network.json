@@ -1,18 +1,18 @@
 {
-    "name": "mainnet",
-    "messagePrefix": "ARK message:\n",
-    "bip32": {
-        "public": 46090600,
-        "private": 46089520
-    },
-    "pubKeyHash": 23,
-    "nethash": "6e84d08bd299ed97c212c886c98a57e36545c8f5d645ca7eeae63a8bd62d8988",
-    "wif": 170,
-    "slip44": 111,
-    "aip20": 0,
-    "client": {
-        "token": "ARK",
-        "symbol": "Ѧ",
-        "explorer": "https://explorer.ark.io"
-    }
+  "name": "mainnet",
+  "messagePrefix": "LBA message:\n",
+  "bip32": {
+    "public": 46090600,
+    "private": 46089520
+  },
+  "pubKeyHash": 48,
+  "nethash": "52666361027a3cf8db60f683274456830be0caa816664c1266e6b7f24cdc3e68",
+  "wif": 33,
+  "slip44": 111,
+  "aip20": 0,
+  "client": {
+    "token": "LBA",
+    "symbol": "L",
+    "explorer": "http://0.0.0.0:4200"
+  }
 }
