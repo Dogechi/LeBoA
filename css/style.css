@@ -1,0 +1,14 @@
+h1{
+  color: #f7325e;
+}
+p,li{
+  color: #7dc410;
+  font-size: 1.125rem;
+  line-height: 1.6;
+  margin-left: 50px;
+}
+.intro{
+  background-color: #132e57;
+  align-items: center;
+  color: #fff;
+}
